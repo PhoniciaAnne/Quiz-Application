@@ -1,5 +1,5 @@
-# fsd-week4---part3
-Part 3 - Quiz Application
+project for creating quiz application
+
 You need to create a simple quiz application using HTML, CSS, and JavaScript. The application allows users to answer multiple-choice questions and receive feedback on their answers. Here is the break down the development of the quiz application into tasks for learners:
 
 Task Breakdown:
